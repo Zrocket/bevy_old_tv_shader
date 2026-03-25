@@ -89,6 +89,10 @@ fn fragment(in: FullscreenVertexOutput) -> @location(0) vec4<f32> {
 
     var color = get_texture_color(texture_uv);
 
+    // Luminance-weighted grayscale (perceptual)
+    let luma = dot(color.rgb, vec3<f32>(0.2126, 0.7152, 0.0722));
+    color = vec4<f32>(luma, luma, luma, color.a);
+
     color = apply_pixel_rows(color, uv, rows);
     color = apply_pixel_cols(color, uv, cols);
 
