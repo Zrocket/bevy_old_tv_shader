@@ -71,36 +71,6 @@ impl Plugin for OldTvPlugin {
                 .add_systems(Core3d, oldtvnode_render_pass.after(ui_pass).before(upscaling))
                 .add_systems(Core2d, oldtvnode_render_pass.after(ui_pass).before(upscaling));
         }
-
-        //render_app
-        //    // The [`ViewNodeRunner`] is a special [`Node`] that will automatically run the node for each view
-        //    // matching the [`ViewQuery`]
-        //    .add_render_graph_node::<ViewNodeRunner<OldTvNode>>(
-        //        // Specify the label of the graph, in this case we want the graph for 3d
-        //        Core3d, // It also needs the label of the node
-        //        OldTvLabel,
-        //    )
-        //    .add_render_graph_node::<ViewNodeRunner<OldTvNode>>(Core2d, OldTvLabel);
-        //#[cfg(feature = "ui")]
-        //render_app
-            //.add_render_graph_edges(Core2d, (NodeUi::UiPass, OldTvLabel, Node2d::Upscaling))
-            //.add_render_graph_edges(Core3d, (NodeUi::UiPass, OldTvLabel, Node3d::Upscaling));
-        //#[cfg(not(feature = "ui"))]
-        //render_app
-        //    .add_render_graph_edges(
-        //        Core2d,
-        //        (Node2d::Tonemapping, OldTvLabel, Node2d::EndMainPassPostProcessing),
-        //    )
-        //    .add_render_graph_edges(
-        //        Core3d,
-        //        // Specify the node ordering.
-        //        // This will automatically create all required node edges to enforce the given ordering.
-        //        (
-        //            Node3d::Tonemapping,
-        //            OldTvLabel,
-        //            Node3d::EndMainPassPostProcessing,
-        //        ),
-        //    );
     }
 
     fn finish(&self, app: &mut App) {
