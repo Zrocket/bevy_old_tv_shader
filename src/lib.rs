@@ -2,30 +2,20 @@
 #![doc = include_str!("../README.md")]
 #![forbid(missing_docs)]
 use bevy::{
-    asset::embedded_asset,
-    core_pipeline::{
-        core_2d::graph::{Core2d, Node2d},
-        core_3d::graph::{Core3d, Node3d},
-        FullscreenShader,
-    },
-    ecs::query::QueryItem,
-    prelude::*,
-    render::{
-        camera::ExtractedCamera,
-        extract_component::{
+    asset::embedded_asset, core_pipeline::{
+        Core2d, Core2dSystems, Core3d, Core3dSystems, FullscreenShader,
+    }, ecs::query::QueryItem, prelude::*, render::{
+        RenderApp, camera::ExtractedCamera, extract_component::{
             ComponentUniforms, DynamicUniformIndex, ExtractComponent, ExtractComponentPlugin,
             UniformComponentPlugin,
         },
-        render_graph::{
-            NodeRunError, RenderGraphContext, RenderGraphExt, RenderLabel, ViewNode, ViewNodeRunner,
-        },
+        // render_graph::{
+        //    NodeRunError, RenderGraphContext, RenderGraphExt, RenderLabel, ViewNode, ViewNodeRunner,
+        //}, 
         render_resource::{
             binding_types::{sampler, texture_2d, uniform_buffer},
             *,
-        },
-        renderer::{RenderContext, RenderDevice},
-        view::ViewTarget,
-        RenderApp,
+        }, renderer::{RenderContext, RenderDevice, ViewQuery}, view::ViewTarget,
     },
 };
 #[cfg(feature = "ui")]
@@ -60,34 +50,44 @@ impl Plugin for OldTvPlugin {
         };
 
         render_app
-            // The [`ViewNodeRunner`] is a special [`Node`] that will automatically run the node for each view
-            // matching the [`ViewQuery`]
-            .add_render_graph_node::<ViewNodeRunner<OldTvNode>>(
-                // Specify the label of the graph, in this case we want the graph for 3d
-                Core3d, // It also needs the label of the node
-                OldTvLabel,
-            )
-            .add_render_graph_node::<ViewNodeRunner<OldTvNode>>(Core2d, OldTvLabel);
-        #[cfg(feature = "ui")]
-        render_app
-            .add_render_graph_edges(Core2d, (NodeUi::UiPass, OldTvLabel, Node2d::Upscaling))
-            .add_render_graph_edges(Core3d, (NodeUi::UiPass, OldTvLabel, Node3d::Upscaling));
-        #[cfg(not(feature = "ui"))]
-        render_app
-            .add_render_graph_edges(
-                Core2d,
-                (Node2d::Tonemapping, OldTvLabel, Node2d::EndMainPassPostProcessing),
-            )
-            .add_render_graph_edges(
+            .add_systems(
                 Core3d,
-                // Specify the node ordering.
-                // This will automatically create all required node edges to enforce the given ordering.
-                (
-                    Node3d::Tonemapping,
-                    OldTvLabel,
-                    Node3d::EndMainPassPostProcessing,
-                ),
+                oldtvnode_render_pass.in_set(Core3dSystems::PostProcess)
+            )
+            .add_systems(
+                Core2d,
+                oldtvnode_render_pass.in_set(Core2dSystems::PostProcess)
             );
+
+        //render_app
+        //    // The [`ViewNodeRunner`] is a special [`Node`] that will automatically run the node for each view
+        //    // matching the [`ViewQuery`]
+        //    .add_render_graph_node::<ViewNodeRunner<OldTvNode>>(
+        //        // Specify the label of the graph, in this case we want the graph for 3d
+        //        Core3d, // It also needs the label of the node
+        //        OldTvLabel,
+        //    )
+        //    .add_render_graph_node::<ViewNodeRunner<OldTvNode>>(Core2d, OldTvLabel);
+        //#[cfg(feature = "ui")]
+        //render_app
+            //.add_render_graph_edges(Core2d, (NodeUi::UiPass, OldTvLabel, Node2d::Upscaling))
+            //.add_render_graph_edges(Core3d, (NodeUi::UiPass, OldTvLabel, Node3d::Upscaling));
+        //#[cfg(not(feature = "ui"))]
+        //render_app
+        //    .add_render_graph_edges(
+        //        Core2d,
+        //        (Node2d::Tonemapping, OldTvLabel, Node2d::EndMainPassPostProcessing),
+        //    )
+        //    .add_render_graph_edges(
+        //        Core3d,
+        //        // Specify the node ordering.
+        //        // This will automatically create all required node edges to enforce the given ordering.
+        //        (
+        //            Node3d::Tonemapping,
+        //            OldTvLabel,
+        //            Node3d::EndMainPassPostProcessing,
+        //        ),
+        //    );
     }
 
     fn finish(&self, app: &mut App) {
@@ -102,7 +102,8 @@ impl Plugin for OldTvPlugin {
     }
 }
 
-#[derive(Debug, Hash, PartialEq, Eq, Clone, RenderLabel)]
+//#[derive(Debug, Hash, PartialEq, Eq, Clone, RenderLabel)]
+#[derive(Debug, Hash, PartialEq, Eq, Clone)]
 struct OldTvLabel;
 
 // The post process node used for the render graph
@@ -110,7 +111,7 @@ struct OldTvLabel;
 struct OldTvNode;
 
 // The ViewNode trait is required by the ViewNodeRunner
-impl ViewNode for OldTvNode {
+/*impl ViewNode for OldTvNode {
     // The node needs a query to gather data from the ECS in order to do its rendering,
     // but it's not a normal system so we need to define it manually.
     //
@@ -219,6 +220,97 @@ impl ViewNode for OldTvNode {
 
         Ok(())
     }
+}*/
+
+fn oldtvnode_render_pass(
+    world: &World,
+    view: ViewQuery<(&ExtractedCamera, &ViewTarget, &OldTvSettings, &DynamicUniformIndex<OldTvSettings>)>,
+    mut render_context: RenderContext,
+) {
+    let (camera, view_target, _post_process_settings, settings_index) = view.into_inner();
+
+    // Get the pipeline resource that contains the global data we need
+    // to create the render pipeline
+    let old_tv_pipeline = world.resource::<OldTvPipeline>();
+
+    // The pipeline cache is a cache of all previously created pipelines.
+    // It is required to avoid creating a new pipeline each frame,
+    // which is expensive due to shader compilation.
+    let pipeline_cache = world.resource::<PipelineCache>();
+
+    // Get the pipeline from the cache
+    let Some(pipeline) = pipeline_cache.get_render_pipeline(old_tv_pipeline.pipeline_id) else {
+        //return Ok(());
+        return;
+    };
+
+    // Get the settings uniform binding
+    let settings_uniforms = world.resource::<ComponentUniforms<OldTvSettings>>();
+    let Some(settings_binding) = settings_uniforms.uniforms().binding() else {
+        //return Ok(());
+        return;
+    };
+
+    // This will start a new "post process write", obtaining two texture
+    // views from the view target - a `source` and a `destination`.
+    // `source` is the "current" main texture and you _must_ write into
+    // `destination` because calling `post_process_write()` on the
+    // [`ViewTarget`] will internally flip the [`ViewTarget`]'s main
+    // texture to the `destination` texture. Failing to do so will cause
+    // the current main texture information to be lost.
+    let post_process = view_target.post_process_write();
+
+    // The bind_group gets created each frame.
+    //
+    // Normally, you would create a bind_group in the Queue set,
+    // but this doesn't work with the post_process_write().
+    // The reason it doesn't work is because each post_process_write will alternate the source/destination.
+    // The only way to have the correct source/destination for the bind_group
+    // is to make sure you get it during the node execution.
+    let bind_group = render_context.render_device().create_bind_group(
+        "old_tv_bind_group",
+        &pipeline_cache.get_bind_group_layout(&old_tv_pipeline.layout),
+        // It's important for this to match the BindGroupLayout defined in the OldTvPipeline
+        &BindGroupEntries::sequential((
+            // Make sure to use the source view
+            post_process.source,
+            // Use the sampler created for the pipeline
+            &old_tv_pipeline.sampler,
+            // Set the settings binding
+            settings_binding.clone(),
+        )),
+    );
+
+    // Begin the render pass
+    let mut render_pass = render_context.begin_tracked_render_pass(RenderPassDescriptor {
+        label: Some("old_tv_pass"),
+        color_attachments: &[Some(RenderPassColorAttachment {
+            // We need to specify the post process destination view here
+            // to make sure we write to the appropriate texture.
+            view: post_process.destination,
+            resolve_target: None,
+            ops: Operations::default(),
+            depth_slice: None,
+        })],
+        depth_stencil_attachment: None,
+        timestamp_writes: None,
+        occlusion_query_set: None,
+        multiview_mask: None,
+    });
+
+    if let Some(viewport) = camera.viewport.as_ref() {
+        render_pass.set_camera_viewport(viewport);
+    }
+    // This is mostly just wgpu boilerplate for drawing a fullscreen triangle,
+    // using the pipeline/bind_group created above
+    render_pass.set_render_pipeline(pipeline);
+    // By passing in the index of the post process settings on this view, we ensure
+    // that in the event that multiple settings were sent to the GPU (as would be the
+    // case with multiple cameras), we use the correct one.
+    render_pass.set_bind_group(0, &bind_group, &[settings_index.index()]);
+    render_pass.draw(0..3, 0..1);
+
+    //Ok(())
 }
 
 // This contains global data used by the render pipeline. This will be created once on startup.
@@ -264,6 +356,7 @@ impl FromWorld for OldTvPipeline {
             .queue_render_pipeline(RenderPipelineDescriptor {
                 label: Some("old_tv_pipeline".into()),
                 layout: vec![layout.clone()],
+                immediate_size: 0,
                 // This will setup a fullscreen triangle for the vertex state.
                 // In Bevy 0.17, fullscreen vertex shaders don't require vertex
                 // buffers.
@@ -275,7 +368,8 @@ impl FromWorld for OldTvPipeline {
                     // It can be anything as long as it matches here and in the shader.
                     entry_point: Some("fragment".into()),
                     targets: vec![Some(ColorTargetState {
-                        format: TextureFormat::bevy_default(),
+                        //format: TextureFormat::bevy_default(),
+                        format: TextureFormat::Rgba8UnormSrgb,
                         blend: None,
                         write_mask: ColorWrites::ALL,
                     })],
@@ -287,7 +381,7 @@ impl FromWorld for OldTvPipeline {
                 primitive: PrimitiveState::default(),
                 depth_stencil: None,
                 multisample: MultisampleState::default(),
-                push_constant_ranges: vec![],
+                //push_constant_ranges: vec![],
                 zero_initialize_workgroup_memory: false,
             });
 

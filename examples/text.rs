@@ -39,7 +39,8 @@ struct FpsText;
 struct ColorText;
 
 fn setup(In(use_3d_camera): In<bool>, mut commands: Commands) {
-    let font_size = 66.0;
+    //let font_size = 66.0;
+    let font_size = FontSize::Px(66.0);
     // UI camera
     let camera = if use_3d_camera {
         info!("Using 3d camera.");
@@ -68,7 +69,7 @@ fn setup(In(use_3d_camera): In<bool>, mut commands: Commands) {
             ..default()
         },
         // Set the justification of the Text
-        TextLayout::new_with_justify(Justify::Center),
+        TextLayout::justify(Justify::Center),
         // Set the style of the Node itself.
         Node {
             position_type: PositionType::Absolute,
