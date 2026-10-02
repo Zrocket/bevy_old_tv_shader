@@ -18,8 +18,8 @@ use bevy::{
         }, renderer::{RenderContext, RenderDevice, ViewQuery}, view::ViewTarget,
     },
 };
-#[cfg(feature = "ui")]
-use bevy_ui_render::graph::NodeUi;
+//#[cfg(feature = "ui")]
+//use bevy_ui_render::graph::NodeUi;
 
 /// Useful splat imports
 pub mod prelude {

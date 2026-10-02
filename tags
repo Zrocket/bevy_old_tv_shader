@@ -3612,6 +3612,10 @@
 0	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.0
 0	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.1
 0	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	o	array:local
+0	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a	array:deps
+0	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.0
+0	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.1
+0	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	o	array:local
 0	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a	array:deps
 0	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.0
 0	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.1
@@ -3620,12 +3624,20 @@
 0	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.0
 0	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.1
 0	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	o	array:local
+0	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a	array:deps
+0	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.0
+0	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.1
+0	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	o	array:local
 0	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a	array:deps
 0	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n	array:deps.0
 0	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	o	array:local
 0	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a	array:deps
 0	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n	array:deps.0
 0	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	o	array:local
+0	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a	array:deps
+0	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.0
+0	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.1
+0	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	o	array:local
 0	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	a	array:deps
 0	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n	array:deps.0
 0	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n	array:deps.1
@@ -3643,6 +3655,10 @@
 0	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n	array:deps.0
 0	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n	array:deps.1
 0	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	o	array:local
+0	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a	array:deps
+0	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.0
+0	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.1
+0	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	o	array:local
 0	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a	array:deps
 0	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.0
 0	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.1
@@ -15273,14 +15289,23 @@
 1	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a	array:deps
 1	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	array:deps.0
 1	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	array:deps.1
+1	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a	array:deps
+1	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	array:deps.0
+1	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	array:deps.1
 1	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a	array:deps
 1	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	array:deps.0
 1	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	array:deps.1
 1	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a	array:deps
 1	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	array:deps.0
 1	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	array:deps.1
+1	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a	array:deps
+1	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	array:deps.0
+1	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	array:deps.1
 1	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s	array:deps.0
 1	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s	array:deps.0
+1	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a	array:deps
+1	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	array:deps.0
+1	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	array:deps.1
 1	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	a	array:deps
 1	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	s	array:deps.0
 1	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	s	array:deps.1
@@ -15290,6 +15315,9 @@
 1	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	a	array:deps
 1	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	s	array:deps.0
 1	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	s	array:deps.1
+1	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a	array:deps
+1	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	array:deps.0
+1	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	array:deps.1
 1	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a	array:deps
 1	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	array:deps.0
 1	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	array:deps.1
@@ -22199,7 +22227,7 @@
 117	target/debug/.fingerprint/x11-dl-ac1c098bb9d0ef7b/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 118	target/debug/.fingerprint/x11-dl-6542c520bb70057c/run-build-script-build-script-build.json	/^{"rustc":2467252760697041086,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 118	target/debug/.fingerprint/x11-dl-ac1c098bb9d0ef7b/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
-11857020428658561806	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	o	object:outputs
+11857020428658561806	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	o	object:outputs
 119	target/debug/.fingerprint/x11-dl-6542c520bb70057c/run-build-script-build-script-build.json	/^{"rustc":2467252760697041086,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 119	target/debug/.fingerprint/x11-dl-ac1c098bb9d0ef7b/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 12	target/debug/.fingerprint/alsa-sys-4022517b050b72d1/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
@@ -23403,7 +23431,7 @@
 172	target/debug/.fingerprint/x11-dl-ac1c098bb9d0ef7b/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 173	target/debug/.fingerprint/x11-dl-6542c520bb70057c/run-build-script-build-script-build.json	/^{"rustc":2467252760697041086,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 173	target/debug/.fingerprint/x11-dl-ac1c098bb9d0ef7b/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
-17379247367090839722	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	o	object:outputs
+17379247367090839722	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	o	object:outputs
 174	target/debug/.fingerprint/x11-dl-6542c520bb70057c/run-build-script-build-script-build.json	/^{"rustc":2467252760697041086,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 174	target/debug/.fingerprint/x11-dl-ac1c098bb9d0ef7b/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 175	target/debug/.fingerprint/x11-dl-6542c520bb70057c/run-build-script-build-script-build.json	/^{"rustc":2467252760697041086,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
@@ -26794,12 +26822,18 @@
 2	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	array:deps.0
 2	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	array:deps.0
 2	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	array:deps.1
+2	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	array:deps.0
+2	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	array:deps.1
 2	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	array:deps.0
 2	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	array:deps.1
 2	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	array:deps.0
 2	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	array:deps.1
+2	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	array:deps.0
+2	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	array:deps.1
 2	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	array:deps.0
 2	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	array:deps.0
+2	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	array:deps.0
+2	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	array:deps.1
 2	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	b	array:deps.0
 2	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	b	array:deps.1
 2	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	array:deps.0
@@ -26807,6 +26841,8 @@
 2	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	array:deps.0
 2	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	b	array:deps.0
 2	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	b	array:deps.1
+2	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	array:deps.0
+2	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	array:deps.1
 2	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	array:deps.0
 2	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	array:deps.1
 2	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	array:deps.0
@@ -36915,12 +36951,18 @@
 3	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n	array:deps.0
 3	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.0
 3	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.1
+3	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.0
+3	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.1
 3	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.0
 3	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.1
 3	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.0
 3	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.1
+3	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.0
+3	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.1
 3	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n	array:deps.0
 3	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n	array:deps.0
+3	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.0
+3	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.1
 3	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n	array:deps.0
 3	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n	array:deps.1
 3	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n	array:deps.0
@@ -36928,6 +36970,8 @@
 3	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n	array:deps.0
 3	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n	array:deps.0
 3	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n	array:deps.1
+3	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.0
+3	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n	array:deps.1
 3	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.0
 3	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n	array:deps.1
 3	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n	array:deps.0
@@ -44966,7 +45010,7 @@
 78	target/debug/.fingerprint/x11-dl-ac1c098bb9d0ef7b/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 79	target/debug/.fingerprint/x11-dl-6542c520bb70057c/run-build-script-build-script-build.json	/^{"rustc":2467252760697041086,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 79	target/debug/.fingerprint/x11-dl-ac1c098bb9d0ef7b/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
-7971740275564407648	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	o	object:outputs
+7971740275564407648	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	o	object:outputs
 8	target/debug/.fingerprint/alsa-sys-4022517b050b72d1/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 8	target/debug/.fingerprint/alsa-sys-7a13bc53e5b64fa1/run-build-script-build-script-build.json	/^{"rustc":2467252760697041086,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	o	array:local
 8	target/debug/.fingerprint/async-io-343c56665d35b334/lib-async_io.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"tracing\\"]","target":1008/;"	a	array:deps
@@ -45882,15 +45926,19 @@ CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	o	object:local.0
 CheckDepInfo	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	o	object:local.0
@@ -48928,15 +48976,19 @@ checksum	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib-
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	object:local.0.CheckDepInfo
+checksum	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	object:local.0.CheckDepInfo
+checksum	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	object:local.0.CheckDepInfo
+checksum	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	b	object:local.0.CheckDepInfo
+checksum	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	b	object:local.0.CheckDepInfo
@@ -50492,9 +50544,9 @@ checksum	target/debug/.fingerprint/zmij-7fc79c0d29f470fe/lib-zmij.json	/^{"rustc
 checksum	target/debug/.fingerprint/zmij-91e8090cf9dd354e/lib-zmij.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"no-panic\\"]","target":166/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/zmij-b8e41156ec2eb9b9/build-script-build-script-build.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"no-panic\\"]","target":540/;"	b	object:local.0.CheckDepInfo
 checksum	target/debug/.fingerprint/zmij-dac683281b28ed51/lib-zmij.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"no-panic\\"]","target":166/;"	b	object:local.0.CheckDepInfo
-code	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	n	object:outputs.11857020428658561806
-code	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	n	object:outputs.17379247367090839722
-code	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	n	object:outputs.7971740275564407648
+code	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	n	object:outputs.11857020428658561806
+code	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	n	object:outputs.17379247367090839722
+code	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	n	object:outputs.7971740275564407648
 compile_kind	target/debug/.fingerprint/ab_glyph-051205fb76fd0d5e/lib-ab_glyph.json	/^{"rustc":1625334936438085654,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	n
 compile_kind	target/debug/.fingerprint/ab_glyph-0c2526b09214545a/lib-ab_glyph.json	/^{"rustc":2467252760697041086,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	n
 compile_kind	target/debug/.fingerprint/ab_glyph-49600504be5ea803/lib-ab_glyph.json	/^{"rustc":1625334936438085654,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	n
@@ -50860,15 +50912,19 @@ compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
+compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
+compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 compile_kind	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
@@ -52887,15 +52943,19 @@ config	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib-be
 config	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+config	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+config	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
+config	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
+config	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 config	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
@@ -54917,15 +54977,19 @@ declared_features	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s
+declared_features	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s
+declared_features	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
+declared_features	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	s
+declared_features	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 declared_features	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
@@ -56936,15 +57000,19 @@ dep_info	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib-
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s	object:local.0.CheckDepInfo
 dep_info	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s	object:local.0.CheckDepInfo
@@ -58865,15 +58933,19 @@ deps	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib-bevy
 deps	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
+deps	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
+deps	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
+deps	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	a
+deps	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 deps	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
@@ -60893,15 +60965,19 @@ features	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib-
 features	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s
+features	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s
+features	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
+features	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	s
+features	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
 features	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	s
@@ -62927,15 +63003,19 @@ local	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib-bev
 local	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
+local	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
+local	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
+local	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	a
+local	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 local	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
@@ -64653,7 +64733,7 @@ output	target/debug/.fingerprint/zerocopy-3fa1df6234d8f8da/run-build-script-buil
 output	target/debug/.fingerprint/zerocopy-97eeecf1ef105057/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	s	object:local.0.RerunIfChanged
 output	target/debug/.fingerprint/zmij-24daae732fd830da/run-build-script-build-script-build.json	/^{"rustc":2467252760697041086,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	s	object:local.0.RerunIfChanged
 output	target/debug/.fingerprint/zmij-a49be0811eb92467/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	s	object:local.0.RerunIfChanged
-outputs	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	o
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	o
 path	target/debug/.fingerprint/ab_glyph-051205fb76fd0d5e/lib-ab_glyph.json	/^{"rustc":1625334936438085654,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	n
 path	target/debug/.fingerprint/ab_glyph-0c2526b09214545a/lib-ab_glyph.json	/^{"rustc":2467252760697041086,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	n
 path	target/debug/.fingerprint/ab_glyph-49600504be5ea803/lib-ab_glyph.json	/^{"rustc":1625334936438085654,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	n
@@ -65019,15 +65099,19 @@ path	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib-bevy
 path	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+path	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+path	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
+path	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
+path	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 path	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
@@ -67102,15 +67186,19 @@ profile	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib-b
 profile	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+profile	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+profile	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
+profile	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
+profile	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 profile	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
@@ -69131,15 +69219,19 @@ rustc	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib-bev
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+rustc	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+rustc	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
+rustc	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
+rustc	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 rustc	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
@@ -70793,7 +70885,7 @@ rustc	target/debug/.fingerprint/zmij-91e8090cf9dd354e/lib-zmij.json	/^{"rustc":2
 rustc	target/debug/.fingerprint/zmij-a49be0811eb92467/run-build-script-build-script-build.json	/^{"rustc":1625334936438085654,"features":"","declared_features":"","target":0,"profile":0,"path":/;"	n
 rustc	target/debug/.fingerprint/zmij-b8e41156ec2eb9b9/build-script-build-script-build.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"no-panic\\"]","target":540/;"	n
 rustc	target/debug/.fingerprint/zmij-dac683281b28ed51/lib-zmij.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"no-panic\\"]","target":166/;"	n
-rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	n
 rustflags	target/debug/.fingerprint/ab_glyph-051205fb76fd0d5e/lib-ab_glyph.json	/^{"rustc":1625334936438085654,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	a
 rustflags	target/debug/.fingerprint/ab_glyph-0c2526b09214545a/lib-ab_glyph.json	/^{"rustc":2467252760697041086,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	a
 rustflags	target/debug/.fingerprint/ab_glyph-49600504be5ea803/lib-ab_glyph.json	/^{"rustc":1625334936438085654,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	a
@@ -71159,15 +71251,19 @@ rustflags	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
+rustflags	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
+rustflags	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
+rustflags	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	a
+rustflags	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
 rustflags	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	a
@@ -72827,15 +72923,15 @@ setup	examples/cube.rs	/^fn setup($/;"	f
 setup	examples/shapes.rs	/^fn setup($/;"	f
 setup	examples/text.rs	/^fn setup(In(use_3d_camera): In<bool>, mut commands: Commands) {$/;"	f
 shapes, 2d camera	README.md	/^## shapes, 2d camera$/;"	s	chapter:Examples
-status	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	s	object:outputs.11857020428658561806
-status	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	s	object:outputs.17379247367090839722
-status	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	s	object:outputs.7971740275564407648
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	s	object:outputs.11857020428658561806
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	s	object:outputs.17379247367090839722
-stderr	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	s	object:outputs.7971740275564407648
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	s	object:outputs.11857020428658561806
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	s	object:outputs.17379247367090839722
-stdout	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	s	object:outputs.7971740275564407648
+status	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.11857020428658561806
+status	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.17379247367090839722
+status	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.7971740275564407648
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.11857020428658561806
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.17379247367090839722
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.7971740275564407648
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.11857020428658561806
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.17379247367090839722
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	s	object:outputs.7971740275564407648
 str	target/debug/build/x11-dl-6542c520bb70057c/out/config.rs	/^pub const gl: Option<&'static str> = Some("\/usr\/lib");$/;"	v	module:config::libdir
 str	target/debug/build/x11-dl-6542c520bb70057c/out/config.rs	/^pub const x11: Option<&'static str> = Some("\/usr\/lib");$/;"	v	module:config::libdir
 str	target/debug/build/x11-dl-6542c520bb70057c/out/config.rs	/^pub const xcursor: Option<&'static str> = Some("\/usr\/lib");$/;"	v	module:config::libdir
@@ -72868,10 +72964,10 @@ str	target/debug/build/x11-dl-ac1c098bb9d0ef7b/out/config.rs	/^pub const xscrnsa
 str	target/debug/build/x11-dl-ac1c098bb9d0ef7b/out/config.rs	/^pub const xt: Option<&'static str> = Some("\/usr\/lib");$/;"	v	module:config::libdir
 str	target/debug/build/x11-dl-ac1c098bb9d0ef7b/out/config.rs	/^pub const xtst: Option<&'static str> = Some("\/usr\/lib");$/;"	v	module:config::libdir
 str	target/debug/build/x11-dl-ac1c098bb9d0ef7b/out/config.rs	/^pub const xxf86vm: Option<&'static str> = Some("\/usr\/lib");$/;"	v	module:config::libdir
-success	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	b	object:outputs.11857020428658561806
-success	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	b	object:outputs.17379247367090839722
-success	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	b	object:outputs.7971740275564407648
-successes	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"11857020428658561806":{"success":true,"sta/;"	o
+success	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	b	object:outputs.11857020428658561806
+success	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	b	object:outputs.17379247367090839722
+success	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	b	object:outputs.7971740275564407648
+successes	target/.rustc_info.json	/^{"rustc_fingerprint":13096851886983527173,"outputs":{"7971740275564407648":{"success":true,"stat/;"	o
 target	target/debug/.fingerprint/ab_glyph-051205fb76fd0d5e/lib-ab_glyph.json	/^{"rustc":1625334936438085654,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	n
 target	target/debug/.fingerprint/ab_glyph-0c2526b09214545a/lib-ab_glyph.json	/^{"rustc":2467252760697041086,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	n
 target	target/debug/.fingerprint/ab_glyph-49600504be5ea803/lib-ab_glyph.json	/^{"rustc":1625334936438085654,"features":"[\\"default\\", \\"gvar-alloc\\", \\"std\\", \\"variabl/;"	n
@@ -73237,15 +73333,19 @@ target	target/debug/.fingerprint/bevy_old_tv_shader-677c49897a3f974a/test-lib-be
 target	target/debug/.fingerprint/bevy_old_tv_shader-69f5dc798e977bec/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-6a58737243a204c0/test-lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-6e1760015d4b8f03/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+target	target/debug/.fingerprint/bevy_old_tv_shader-6e9ded1b28b011b6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-7e7869500c6df46d/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-87c2ab19e053b101/example-shapes.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
+target	target/debug/.fingerprint/bevy_old_tv_shader-8b1d4f321b5e0af6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-8cb6c03d1a1907da/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-93d9f445282ce9ff/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
+target	target/debug/.fingerprint/bevy_old_tv_shader-9e1d3fbf99d5cbce/test-example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-a993c38ade5bb0e3/example-cube.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-ad81debc97e071b3/test-lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-ad8646a52d7e0770/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-b1ab93e49133d55a/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-b5dec6d5e9b1c6d9/example-cube.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":494378071/;"	n
+target	target/debug/.fingerprint/bevy_old_tv_shader-c329deb1758878c6/example-text.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":134252915/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-caea3afafc48a971/example-shapes.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":253500756/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-d2ce6a8562edafa8/lib-bevy_old_tv_shader.json	/^{"rustc":1625334936438085654,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
 target	target/debug/.fingerprint/bevy_old_tv_shader-dcac20d6d364c779/lib-bevy_old_tv_shader.json	/^{"rustc":2467252760697041086,"features":"[]","declared_features":"[\\"ui\\"]","target":178184953/;"	n
