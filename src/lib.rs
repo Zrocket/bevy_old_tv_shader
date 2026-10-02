@@ -18,7 +18,8 @@ use bevy::{
         }, renderer::{RenderContext, RenderDevice, ViewQuery}, view::ViewTarget,
     },
 };
-//#[cfg(feature = "ui")]
+#[cfg(feature = "ui")]
+use bevy_ui_render::render_pass::ui_pass;
 //use bevy_ui_render::graph::NodeUi;
 
 /// Useful splat imports
@@ -49,6 +50,8 @@ impl Plugin for OldTvPlugin {
             return;
         };
 
+        #[cfg(not(feature = "ui"))]
+        {
         render_app
             .add_systems(
                 Core3d,
@@ -58,6 +61,16 @@ impl Plugin for OldTvPlugin {
                 Core2d,
                 oldtvnode_render_pass.in_set(Core2dSystems::PostProcess)
             );
+        }
+
+        #[cfg(feature = "ui")]
+        {
+            // Run after the UI is drawn (so the UI gets the CRT effect too),
+            // and before the final blit to the window.
+            render_app
+                .add_systems(Core3d, oldtvnode_render_pass.after(ui_pass).before(upscaling))
+                .add_systems(Core2d, oldtvnode_render_pass.after(ui_pass).before(upscaling));
+        }
 
         //render_app
         //    // The [`ViewNodeRunner`] is a special [`Node`] that will automatically run the node for each view
