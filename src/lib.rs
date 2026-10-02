@@ -3,7 +3,7 @@
 #![forbid(missing_docs)]
 use bevy::{
     asset::embedded_asset, core_pipeline::{
-        Core2d, Core2dSystems, Core3d, Core3dSystems, FullscreenShader,
+        Core2d, Core2dSystems, Core3d, Core3dSystems, FullscreenShader, upscaling::upscaling,
     }, ecs::query::QueryItem, prelude::*, render::{
         RenderApp, camera::ExtractedCamera, extract_component::{
             ComponentUniforms, DynamicUniformIndex, ExtractComponent, ExtractComponentPlugin,
